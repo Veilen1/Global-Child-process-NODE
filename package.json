@@ -1,5 +1,5 @@
 {
-  "name": "desafio_004",
+  "name": "desafio_014",
   "version": "1.0.0",
   "description": "server with express",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "express",
     "node"
   ],
-  "author": "Omaira Palacios",
+  "author": "Veilen1",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
